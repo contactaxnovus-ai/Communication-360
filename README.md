@@ -41,7 +41,7 @@ The template builder gives users one place to create channel-specific templates,
 
 The compose screen combines template selection, direct email entry, Communication 360 user selection, team targeting, recipient validation, preview, and final send review.
 
-![Communication 360 Compose and Recipients](assets/communication-360/compose-recipients.png)
+![Communication 360 Compose and Recipients](compose-recipients.png)
 
 ## Core Capabilities
 
