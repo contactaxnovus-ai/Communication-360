@@ -29,13 +29,13 @@ Communication 360 is built for organizations that need reliable, secure, and rep
 
 The dashboard gives teams a live operating view of communication activity across all channels.
 
-![Communication 360 Dashboard](assets/communication-360/dashboard.png)
+![Communication 360 Dashboard](dashboard.png)
 
 ### Template Builder
 
 The template builder gives users one place to create channel-specific templates, manage variables, preview content, and submit templates for approval.
 
-![Communication 360 Template Builder](assets/communication-360/template-builder.png)
+![Communication 360 Template Builder](template-builder.png)
 
 ### Compose and Recipients
 
